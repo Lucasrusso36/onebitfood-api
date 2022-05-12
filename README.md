@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+*API desenvolvida através do evento OneBitFood pela OneBitCode.
 
-Things you may want to cover:
+*App inspirado no IFood.
 
-* Ruby version
 
-* System dependencies
+Ruby: 3.0.0
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Rails: 6.1.4
