@@ -1,4 +1,4 @@
-# README
+# OneBitFood
 
 *API desenvolvida através do evento OneBitFood pela OneBitCode.
 
